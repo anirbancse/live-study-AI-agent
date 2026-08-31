@@ -37,7 +37,7 @@ and caches the result in `live_updates.json`.
 2. In Render, choose **New > Web Service** and connect the repository.
 3. Use these settings:
    - **Runtime:** Python
-   - **Build command:** `pip install -r requirements.txt` (or leave blank)
+   - **Build command:** `pip install -r requirements.txt`
    - **Start command:** `python dashboard.py`
    - **Instance type:** Free
 4. Deploy and open the generated `onrender.com` URL.
