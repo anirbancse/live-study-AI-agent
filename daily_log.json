@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-01",
+  "level": "Beginner",
+  "focus": "Generative AI Fundamentals",
+  "lesson": "Learn prompt engineering, model basics, and responsible AI principles.",
+  "practice_task": "Write 5 prompts for summarization, brainstorming, classification, extraction, and rewriting.",
+  "daily_update": "Review one beginner-friendly AI article and write 3 key takeaways.",
+  "weekly_roadmap": [
+    {
+      "day": 1,
+      "topic": "AI foundations",
+      "goal": "Understand machine learning basics and AI use cases."
+    },
+    {
+      "day": 2,
+      "topic": "Prompt engineering",
+      "goal": "Practice writing better prompts for chat and text tasks."
+    },
+    {
+      "day": 3,
+      "topic": "Generative AI tools",
+      "goal": "Explore ChatGPT, Copilot, and productivity workflows."
+    },
+    {
+      "day": 4,
+      "topic": "AI ethics",
+      "goal": "Study bias, privacy, and safe AI usage."
+    }
+  ]
+}
